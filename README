@@ -1,0 +1,4 @@
+In order for the bot to work, you need to create a sql database. Here are the settings -
+id - INTEGER, autoincrement
+user_id - INTEGER
+time - default "0"
